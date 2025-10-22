@@ -24,8 +24,11 @@ Um player de audiobook interativo com leitura automática e controles de reprodu
    ```bash
    git clone https://github.com/kennyglins/audiobook-js.git
    ```
+
 ## 📸 Demonstração
 
 <p align="center">
   <img src="https://github.com/kennyglins/audiobook-js/blob/main/Captura%20de%20tela%202025-10-21%20214234.png?raw=true" width="800" alt="Audiobook JS - tela inicial">
 </p>
+
+2. Abra o arquivo index.html no navegador.
