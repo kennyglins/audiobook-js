@@ -32,3 +32,12 @@ Um player de audiobook interativo com leitura automática e controles de reprodu
 </p>
 
 2. Abra o arquivo index.html no navegador.
+
+## 📬 Contato
+
+👤 Kennedy Lins
+📧 nino010506@gmail.com
+
+🌐 [LinkedIn](https://www.linkedin.com/in/kennedy-lins-303007356/)
+
+💻 [Portfólio](https://kennyglins.github.io/portf-lio/#)
